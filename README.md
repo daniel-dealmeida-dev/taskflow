@@ -1,4 +1,4 @@
-# 📝 Task Manager - Spring Boot
+#  Task Manager - Spring Boot
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/task-manager)
 ![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/task-manager)
@@ -10,7 +10,7 @@
 
 ##  Funcionalidades
 
- ✅ Criar novas tarefas
+ ✅ Criar novas tarefas/n
  📋 Listar todas as tarefas
  🔄 Atualizar status de tarefas (TODO → DOING → DONE) com validação
  🛠️ Estrutura pronta para integração com front-end (React, Angular, etc.)
