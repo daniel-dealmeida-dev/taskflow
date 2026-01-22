@@ -50,18 +50,6 @@ Exemplo de payload para atualizar status:
   "status": "DOING"
 }
 
-📂 Estrutura do projeto
-src/
-├── main/
-│   ├── java/com/global/demo/
-│   │   ├── controller/  # Endpoints REST
-│   │   ├── domain/      # Entidades e enums
-│   │   ├── dto/         # Objetos de transferência
-│   │   └── service/     # Lógica de negócio
-│   └── resources/
-│       └── application.properties
-└── test/
-
 
 🏃 Como rodar localmente
 
@@ -74,8 +62,7 @@ cd task-manager
 Rode com Maven:
 
 mvn spring-boot:run
-Demonstração animada
-<p align="center"> <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400"/> </p>
+
 
 Acesse http://localhost:8080/tasks via Postman ou front-end.
 
