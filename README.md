@@ -51,20 +51,16 @@ Exemplo de payload para atualizar status:
 }
 
 
-🏃 Como rodar localmente
+🏃 Como rodar localmente?
 
-Clone o repositório:
+1- Clone o repositório:
+ git clone https://github.com/seu-usuario/task-manager.git
+ cd task-manager
 
-git clone https://github.com/seu-usuario/task-manager.git
-cd task-manager
+2- Rode com Maven:
+ mvn spring-boot:run
 
-
-Rode com Maven:
-
-mvn spring-boot:run
-
-
-Acesse http://localhost:8080/tasks via Postman ou front-end.
+3- Acesse http://localhost:8080/tasks via Postman ou front-end.
 
 👨‍💻 autor
 
