@@ -50,6 +50,19 @@ Exemplo de payload para atualizar status:
   "status": "DOING"
 }
 
+📂 Estrutura do projeto
+src/
+├── main/
+│   ├── java/com/global/demo/
+│   │   ├── controller/  # Endpoints REST
+│   │   ├── domain/      # Entidades e enums
+│   │   ├── dto/         # Objetos de transferência
+│   │   └── service/     # Lógica de negócio
+│   └── resources/
+│       └── application.properties
+└── test/
+
+
 🏃 Como rodar localmente
 
 Clone o repositório:
