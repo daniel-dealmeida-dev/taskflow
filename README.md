@@ -60,7 +60,7 @@ Exemplo de payload para atualizar status:
 2- Rode com Maven:
  mvn spring-boot:run
 
-3- Acesse http://localhost:8080/tasks via Postman ou front-end.
+3- Acesse http://localhost:8080/tasks via Postman ou outros softwares de testes.
 
 👨‍💻 autor
 
