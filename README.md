@@ -13,7 +13,7 @@
  ✅ Criar novas tarefas
  📋 Listar todas as tarefas
  🔄 Atualizar status de tarefas (TODO → DOING → DONE) com validação
- 🛠️ Estrutura pronta para integração com front-end (React, Angular, etc.)
+ 🛠️ Estrutura pronta para integração com front-end
  ⚡ Projeto leve, usando banco em memória H2
 
 
