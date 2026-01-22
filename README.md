@@ -16,7 +16,9 @@
  🛠️ Estrutura pronta para integração com front-end (React, Angular, etc.)
  ⚡ Projeto leve, usando banco em memória H2
 
+
 ## 💻 Tecnologias utilizadas
+
 
  Java 21
  Spring Boot 4.0.1
@@ -26,7 +28,6 @@
  Lombok
  Maven
 
----
 
 ## 🚀 Endpoints
 
@@ -36,6 +37,7 @@
 | GET    | `/tasks` | Listar todas as tarefas |
 | PUT    | `/tasks/{id}/status` | Atualizar status de tarefa |
 
+
 Exemplo de payload para criar task:
 
 json
@@ -43,6 +45,7 @@ json
   "title": "Estudar React",
   "description": "Estudar fundamentos do React.js",
   "priority": "HIGH"
+
 
 Exemplo de payload para atualizar status:
 
@@ -61,6 +64,20 @@ Exemplo de payload para atualizar status:
  mvn spring-boot:run
 
 3- Acesse http://localhost:8080/tasks via Postman ou outros softwares de testes.
+
+
+## 🚀 Próximos Recursos / Roadmap
+
+- [ ] Front-end completo com **React.js**  
+- [ ] Deploy do projeto em **AWS** ou **Heroku**  
+- [ ] Persistência de dados em **MySQL** ou **PostgreSQL**  
+- [ ] Funções de **delete** de tarefas  
+- [ ] Dashboard interativo com **gráficos de progresso**  
+- [ ] Busca e filtros avançados de tarefas  
+- [ ] Autenticação e autorização de usuários  
+- [ ] Notificações de status (email ou push)  
+- [ ] Maior quantidade de **tratamento de erros** para fluxos complexos 
+
 
 👨‍💻 autor
 
