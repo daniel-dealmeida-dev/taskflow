@@ -83,7 +83,7 @@ Exemplo de payload para atualizar status:
 
 Daniel Almeida
 Idade: 18 anos
-Focado em Java, React e Desenvolvimento Full-Stack
+Focado em Java, estudos de React e Desenvolvimento Full-Stack
 Buscando evoluir projetos de backend + frontend
 
 
