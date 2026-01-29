@@ -81,7 +81,9 @@ cd demo
 
 # Windows
 mvnw.cmd spring-boot:run
+
 Teste a API via Postman ou outro cliente HTTP:
+
 http://localhost:8080/tasks
 
 
