@@ -5,7 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/daniel-dealmeida-dev/task-manager)
 ![License](https://img.shields.io/github/license/daniel-dealmeida-dev/task-manager)
 
-Uma aplicação de gerenciamento de tarefas desenvolvida com **Spring Boot**, **Spring Data JPA** e **H2 Database**. Permite criar, listar, atualizar, deletar e filtrar tarefas com status **TODO → DOING → DONE**, além de oferecer documentação via **Swagger**. 🖥️⚡
+Uma aplicação de gerenciamento de tarefas desenvolvida com **Spring Boot**, **Spring Data JPA** e **H2 Database**. Permite criar, listar, atualizar, deletar e filtrar tarefas com status **TODO → DOING → DONE**, além de oferecer documentação via **Swagger**. 🖥️
 
 ---
 
