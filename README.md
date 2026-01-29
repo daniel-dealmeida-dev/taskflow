@@ -142,6 +142,7 @@ Swagger:
 
 
 🛣️ Próximos Recursos / Roadmap
+
 [ ]Front-end completo com React.js ⚛️
 
 [ ]Deploy do projeto em AWS ou Heroku ☁️
@@ -163,7 +164,11 @@ Swagger:
 [ ] Deixar mais fácil de utilizar os filtros ⚠️
 
 👨‍💻 Autor
+
 Daniel Almeida
+
 Idade: 18 anos
+
 Focado em Java, estudos de React e Desenvolvimento Full-Stack
+
 Buscando evoluir projetos de backend + frontend 
