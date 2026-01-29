@@ -14,13 +14,21 @@ Uma aplicação de gerenciamento de tarefas desenvolvida com **Spring Boot**, **
 ## 🚀 Funcionalidades
 
 ✅ Criar novas tarefas  
+
 📋 Listar todas as tarefas  
+
 🔄 Atualizar status de tarefas (TODO → DOING → DONE) com validação  
+
 🗑️ Deletar tarefas por ID  
+
 🔍 Filtrar tarefas por status e/ou prioridade   
+
 📖 Documentação interativa via Swagger  
+
 🛠️ Estrutura pronta para integração com front-end  
+
 ⚡ Projeto leve, usando banco em memória H2
+
 ⚡ CI automatizado com GitHub Actions: build, testes e artifact jar
 
 ---
