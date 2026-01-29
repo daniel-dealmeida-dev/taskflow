@@ -135,8 +135,10 @@ Você verá todos os endpoints, poderá testar as requisições diretamente pelo
 Abra o Swagger em: `http://localhost:8080/swagger-ui.html`
 
 Veja todos os endpoints e exemplos de payload diretamente no navegador:
-![Swagger Endpoint Example](<img width="1426" height="774" alt="image" src="https://github.com/user-attachments/assets/6cf4a8bc-5cea-4e67-a3c8-f8fbef1d92cb" />
-)
+![Swagger Endpoint Example]
+
+<img width="1440" height="705" alt="image" src="https://github.com/user-attachments/assets/c0b1bee5-e523-47dd-bb43-4c9df2be382d" />
+
 
 🛣️ Próximos Recursos / Roadmap
 [ ]Front-end completo com React.js ⚛️
