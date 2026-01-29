@@ -20,7 +20,8 @@ Uma aplicação de gerenciamento de tarefas desenvolvida com **Spring Boot**, **
 🔍 Filtrar tarefas por status e/ou prioridade   
 📖 Documentação interativa via Swagger  
 🛠️ Estrutura pronta para integração com front-end  
-⚡ Projeto leve, usando banco em memória H2 
+⚡ Projeto leve, usando banco em memória H2
+
 ⚡ CI automatizado com GitHub Actions: build, testes e artifact jar
 
 ---
