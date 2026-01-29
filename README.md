@@ -21,7 +21,6 @@ Uma aplicação de gerenciamento de tarefas desenvolvida com **Spring Boot**, **
 📖 Documentação interativa via Swagger  
 🛠️ Estrutura pronta para integração com front-end  
 ⚡ Projeto leve, usando banco em memória H2
-
 ⚡ CI automatizado com GitHub Actions: build, testes e artifact jar
 
 ---
