@@ -64,6 +64,7 @@ Exemplo de query para filtro:
 
 GET /tasks/filter?status=DOING&priority=HIGH
 
+
 🏃 Como rodar localmente
 Clone o repositório:
 
