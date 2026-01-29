@@ -65,7 +65,8 @@ Exemplo de query para filtro:
 GET /tasks/filter?status=DOING&priority=HIGH
 
 
-🏃 Como rodar localmente
+🏃 Como rodar localmente:
+
 Clone o repositório:
 
 git clone https://github.com/daniel-dealmeida-dev/task-manager.git
