@@ -70,6 +70,7 @@ GET /tasks/filter?status=DOING&priority=HIGH
 Clone o repositório:
 
 git clone https://github.com/daniel-dealmeida-dev/taskFlow
+
 cd task-manager
 Entre na pasta demo e rode com Maven:
 
