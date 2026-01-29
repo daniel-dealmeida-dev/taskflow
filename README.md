@@ -81,21 +81,32 @@ Teste a API via Postman ou outro cliente HTTP:
 http://localhost:8080/tasks
 
 POST:
+
 <img width="832" height="510" alt="image" src="https://github.com/user-attachments/assets/fdeed9d0-0531-449b-b76f-82e3292b197e" />
 
+
 GET:
+
 <img width="849" height="548" alt="image" src="https://github.com/user-attachments/assets/7d6c9a32-b073-4837-8ca3-08af352abfce" />
 
+
 GET com FILTRO:
+
 <img width="835" height="590" alt="image" src="https://github.com/user-attachments/assets/e3ee9e8e-6938-4d85-9f88-c74f8e38ab4c" />
 
+
 PUT com FILTRO:
+
 <img width="832" height="533" alt="image" src="https://github.com/user-attachments/assets/70f84e7d-9592-4111-b4f0-abaca60c9e98" />
 
+
 DELETE:
+
 <img width="839" height="362" alt="image" src="https://github.com/user-attachments/assets/353a39b9-1019-47e3-b5d0-b80027a02e01" />
 
+
 DELETE em algo que não existe:
+
 <img width="840" height="523" alt="image" src="https://github.com/user-attachments/assets/9223ccbb-d436-4fc9-93a3-08bc3b9fdf9a" />
 
 
