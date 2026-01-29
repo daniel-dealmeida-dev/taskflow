@@ -24,8 +24,7 @@ jobs:
     - name: Build and Test with Maven
       run: |
         cd demo
-        chmod +x mvnw
-        ./mvnw -B package --file pom.xml
+        mvn -B package --file pom.xml
 
     - name: Upload Build Artifact
       if: success()
