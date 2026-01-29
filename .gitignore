@@ -1,0 +1,59 @@
+
+# Eclipse / VSCode 
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+
+# Build / Binários
+target/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+
+# Spring Boot / DevTools
+restart/
+*.tmp
+*.pid
+
+
+# Banco de dados H2 / SQLite local
+*.mv.db
+*.trace.db
+
+
+# Outras coisas do Maven
+.settings/
+dependency-reduced-pom.xml
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+buildNumber.properties
+.mvn/timing.properties
+
+
+
+# Git
+.gitignore
