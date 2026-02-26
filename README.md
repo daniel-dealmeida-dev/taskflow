@@ -11,7 +11,7 @@ Uma aplicação de gerenciamento de tarefas desenvolvida com **Spring Boot**, **
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 ✅ Criar novas tarefas  
 
